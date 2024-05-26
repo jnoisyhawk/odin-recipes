@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project for my Foundations Course in The Odin Project. The Odin Project is a free, open-source community for full-stack web development training. I practiced HTML including linking and creating lists. I also discovered that on the left side of VSCode there is a "Source Control" to help with version control while coding. I also learned that I did not write any commit messages as I intended to from the lesson. I think I am writing a commit right now so I am going to test and see. Test 2: Updating README.md second time.
