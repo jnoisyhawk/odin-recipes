@@ -1,0 +1,20 @@
+
+
+body {background-color: #DDE6ED;
+padding: 10px;}
+.container {
+    width: 80%; 
+    max-width: 700px; 
+    margin: 100px auto;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.homepage {background-color: #526D82;}
+h1 {text-align: center;
+     background-color: #27374D;}
+.two{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; color: white;}
+h3 {background-color: #526D82;}
+p {background-color: #9DB2BF;}
+
+
